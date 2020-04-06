@@ -2,7 +2,6 @@ package com.dajo.roomrest;
 
 import java.util.Arrays;
 
-import javax.xml.bind.annotation.XmlRootElement;
 
 public class Room {
 	
